@@ -53,3 +53,12 @@ export const fetchSpecies = async (url) => {
   return await fetchData(url);
 };
 
+/**
+ * Fetches film details
+ * @param {string} url - The film URL
+ * @returns {Promise<Object>} Film data
+ */
+export const fetchFilm = async (url) => {
+  return await fetchData(url);
+};
+
