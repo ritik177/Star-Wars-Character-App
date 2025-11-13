@@ -40,7 +40,7 @@ npm install
 npm run dev
 ```
 
-The app will open at [http://localhost:5173](http://localhost:5173)
+The app will open at [https://star-wars-character-app-seven.vercel.app/](https://star-wars-character-app-seven.vercel.app/)
 
 ## Authentication & Login
 
